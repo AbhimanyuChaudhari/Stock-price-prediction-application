@@ -96,7 +96,7 @@ This project is licensed under the [MIT License](LICENSE.md).
 
 ## Support and Contact
 
-If you have any questions, issues, or suggestions, feel free to reach out to the project maintainer at [abhimanyuchaudhari16@gmail.com](abhimanyuchaudhari16@gmail.com).
+If you have any questions, issues, or suggestions, feel free to reach out to the project maintainer at [abhimanyuchaudhari16@gmail.com](mailto:abhimanyuchaudhari16@gmail.com).
 
 Happy stock price prediction and analysis!
 
