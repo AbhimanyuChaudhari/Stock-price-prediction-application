@@ -63,11 +63,20 @@ Follow these steps to run the web application locally:
 
 This application currently supports the following machine learning models for stock price prediction:
 
-- [Model 1](models/model1.py): Description of the first model.
-- [Model 2](models/model2.py): Description of the second model.
-- ...
+- 
+This application currently supports the following machine learning models for stock price prediction:
 
-You can contribute additional models by following the model template in the `models` directory.
+- **Linear Regression**: Linear regression is a simple yet powerful model for predicting continuous values.
+
+- **K-Nearest Neighbors (KNN) Regression**: KNN is a non-parametric algorithm that can be used for regression tasks.
+
+- **Random Forest Regression**: Random Forest is an ensemble method known for its accuracy and robustness in regression problems.
+
+- **Naive Bayes Model**: Naive Bayes is a probabilistic model, and it can be adapted for regression tasks.
+
+- **Gradient Boosting**: Gradient boosting algorithms, such as XGBoost, are known for their high predictive power in regression tasks.
+
+- **Decision Tree Regression**: Decision trees can be used for regression, providing interpretable results.
 
 ## Deployment
 
